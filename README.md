@@ -36,10 +36,3 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HermannDouglas&layout=compact&bg_color=1a1b27&border_color=565f89&title_color=7aa2f7&text_color=c0caf5)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HermannDouglas&theme=tokyonight&bg_color=1a1b27&border_color=565f89&show_icons=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5)
-
-<h3 align="left">Meus projetos recentes:</h3>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HermannDouglas&repo=events&bg_color=1a1b27&border_color=565f89&show_icons=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5)](https://github.com/HermannDouglas/events)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HermannDouglas&repo=todolist&bg_color=1a1b27&border_color=565f89&show_icons=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5)](https://github.com/HermannDouglas/todolist)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HermannDouglas&repo=DevStage-Frontend&bg_color=1a1b27&border_color=565f89&show_icons=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5)](https://github.com/HermannDouglas/DevStage-Frontend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HermannDouglas&repo=moments-frontend&bg_color=1a1b27&border_color=565f89&show_icons=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5)](https://github.com/HermannDouglas/moments-frontend)
