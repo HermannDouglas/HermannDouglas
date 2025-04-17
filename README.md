@@ -1,6 +1,10 @@
-<h1 align="center">Olá 👋, eu sou Hermann Douglas Bezerra de Almeida</h1>
+<h1 align="center">Olá 👋, eu sou Hermann Douglas!</h1>
 
-<p align="justify">Estou buscando melhorar minhas habilidades como desenvolvedor Full Stack. Sou graduado em Sistemas de Informação pela Universidade Federal do Acre (UFAC) e também tenho um curso Técnico em Informática pelo Instituto Federal do Acre (IFAC). Durante minha jornada acadêmica, participei de projetos de extensão, como WebAcademy – Treinamento Full Stack Web (UFAC/Instituto EL Dourado/Flextronic) – e Treinamento em Engenharia de Software (UFAC/Compal), onde adquiri experiência prática e aprofundei meus conhecimentos, especialmente em Java, Spring Boot e Angular.</p>
+<p align="justify">
+Estou buscando melhorar minhas habilidades como desenvolvedor Full Stack. Sou graduado em Sistemas de Informação pela Universidade Federal do Acre (UFAC) e também tenho um curso Técnico em Informática pelo Instituto Federal do Acre (IFAC).
+
+Durante minha jornada acadêmica, participei de projetos de extensão, como WebAcademy – Capacitação Full Stack Web (UFAC/Instituto EL Dourado/Flextronic) – e Capacitação em Engenharia de Software (UFAC/Compal), onde adquiri experiência prática e aprofundei meus conhecimentos, especialmente em Java, Spring Boot e Angular.
+</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -12,25 +16,36 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### Linguagens:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+#### Frameworks e Bibliotecas:
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Ferramentas:
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Bancos de Dados:
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h3 align="left">Estatísticas do GitHub:</h3>
 
